@@ -10,7 +10,7 @@ export const STARTER_PROMPTS: StartScreenPrompt[] = [
   {
     label: "Was ist die Brocanterie Fleurie?",
     prompt: "Erzähl mir bitte, was die Brocanterie Fleurie ist.",
-    icon: "sparkles", // "flower" ersetzt durch gültiges Icon
+    icon: "sparkle", // ✅ korrektes Icon
   },
   {
     label: "Öffnungszeiten & Kontakt",
